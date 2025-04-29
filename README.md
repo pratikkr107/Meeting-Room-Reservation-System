@@ -21,3 +21,12 @@ Personal project of meeting room reservation system for companies.
 2. That Admin user is then able to:
    1. Manage his company's meeting rooms (adding, deleting)
    2. Manage users (adding, deleting) and assigning the roles (Admin or User)
+
+## 🔸 Main technologies used
+
+- <b>Frontend:</b>
+  [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Chakra UI](https://chakra-ui.com/), [Tailwind CSS](https://tailwindcss.com/)
+- <b>Backend:</b>
+  [Firebase](https://firebase.google.com/)
+- <b>Hosting:</b>
+  [GH pages](https://pages.github.com/)
