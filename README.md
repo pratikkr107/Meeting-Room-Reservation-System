@@ -2,12 +2,8 @@
 
 ## 🔸 Key Features
 
-Personal project of meeting room reservation system for companies.
-
-**📌 Features**
-
 1. User uses this app when he needs to book a meeting room for upcoming meeting or see/edit meeting details (time, meeting type, guests, meeting creators)
-2. User is able to pick a day, see **all company meeting rooms together** (divided into 30 minutes time blocks from 7AM to 7PM).
+2. User is able to pick a day, see **all company meeting rooms together**.
 3. One room is then picked for detailed view. In this view user is able to
    1. Book a meeting (by clicking on time blocks, which he would like to reserve and filling meeting form)
    2. View reserved meetings
